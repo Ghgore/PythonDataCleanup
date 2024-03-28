@@ -1,0 +1,1 @@
+These are two really simple programs that I made for a class (but weren't required, just to make things easier for me), and while they're really simple, I'm really happy with them because they winded up saving us a lot of time an effort, and made the [dataset](https://www.aoml.noaa.gov/hrd/hurdat/hurdat2.html) much easier to work with for my group. 
